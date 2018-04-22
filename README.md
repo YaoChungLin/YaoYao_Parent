@@ -1,4 +1,5 @@
-# YaoYao_Parent1.打开SwitchHosts
+# YaoYao_Parent
+1.打开SwitchHosts
 2.启动nginx
 	start nginx.exe
 3.打开MySQL和Redis服务
